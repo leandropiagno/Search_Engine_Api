@@ -1,3 +1,7 @@
+# Search Engine Api
+
+Fazendo uma requisição HTTP da API do site VIACEP. Aplicação completa em ReactJs.
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/74012374/174659884-9d723ca9-e68b-4787-84ad-18051803c9ec.gif)
 
 
